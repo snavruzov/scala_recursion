@@ -1,1 +1,3 @@
-# scala_recursion
+Scala Recursive algorithms
+
+
