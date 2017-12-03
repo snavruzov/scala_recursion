@@ -17,9 +17,14 @@ The idea of calling one function from another immediately suggests the possibili
  - Brownian bridge.
 
 Don't forget to change path params in:
-src/main/scala/com/algo/functions/HTree.scala
 
-src/main/scala/com/algo/functions/Tree.scala
+[src/main/scala/com/algo/functions/HTree.scala]
+
+[src/main/scala/com/algo/functions/Tree.scala]
+
+## Screenshots
+
+[![N|Solid](https://raw.githubusercontent.com/snavruzov/scala_recursion/master/drawing.png?raw=true)]
 
 License
 Apache 2.0
