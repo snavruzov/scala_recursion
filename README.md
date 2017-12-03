@@ -26,5 +26,7 @@ Don't forget to change path params in:
 
 [![N|Solid](https://raw.githubusercontent.com/snavruzov/scala_recursion/master/drawing.png?raw=true)]
 
+[![N|Solid](https://raw.githubusercontent.com/snavruzov/scala_recursion/master/drawingTree.png?raw=true)]
+
 License
 Apache 2.0
