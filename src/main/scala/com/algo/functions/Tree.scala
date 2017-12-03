@@ -52,7 +52,7 @@ object Tree {
     // done with drawing
     g.dispose()
     // write image to a file
-    javax.imageio.ImageIO.write(canvas, "png", new java.io.File("/home/sardor/drawingTree.png"))
+    javax.imageio.ImageIO.write(canvas, "png", new java.io.File("/path/to/drawingTree.png"))
     ()
   }
 
